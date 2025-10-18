@@ -1,1 +1,1 @@
-{"board": ["", "", "", "", "O", "", "", "", "X"], "turn": "O", "winner": null}
+{"board": ["", "", "O", "", "O", "", "", "", "X"], "turn": "X", "winner": null}
